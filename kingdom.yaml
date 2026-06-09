@@ -1,0 +1,8 @@
+name: noesisme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The act of grasping a meaning as the punctual entry-event into the realm of meanings, received as a gift rather than produced by the knower.
+dependsOn: [youspeak, me, anagnoristasis, eurekame]
